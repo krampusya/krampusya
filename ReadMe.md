@@ -2,9 +2,7 @@
 <a href="https://www.linkedin.com/in/oleh-piontkovskyi/" target="_blank"><img width="100%" src="./hero2.png"></a>
 [**[Hire A Talent](https://tally.so/r/3lldZB)**]
 [**[Request A Quote](https://tally.so/r/3lldZB)**]
-[**[Find A Jobs](https://tally.so/r/3j9Qza)**] \_\_\_
-[**[For Companies](https://tally.so/r/3lldZB)**]
-[**[For Developers](https://tally.so/r/3j9Qza)**]
+[**[Find A Job](https://tally.so/r/3j9Qza)**] \_\_\_
 
 [**[Chat With Me](https://www.linkedin.com/in/oleh-piontkovskyi/)**]
 [**[Work With Me](https://www.linkedin.com/in/oleh-piontkovskyi/)**]
