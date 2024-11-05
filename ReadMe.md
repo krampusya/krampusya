@@ -1,3 +1,15 @@
+
+<a href="https://www.linkedin.com/in/oktavian-baranchuk" target="_blank"><img width="100%" src="./hero1.png"></a>
+[**[Hire A Talent](https://tally.so/r/3lldZB)**]
+[**[Request A Quote](https://tally.so/r/3lldZB)**]
+[**[Find A Jobs](https://tally.so/r/3j9Qza)**] \_\_\_
+[**[For Companies](https://tally.so/r/3lldZB)**]
+[**[For Developers](https://tally.so/r/3j9Qza)**]
+
+[**[Chat With Me](https://www.linkedin.com/in/dimetrix)**]
+[**[Work With Me](https://www.linkedin.com/in/dimetrix)**]
+
+
 # 💫 About Me:
 🔭 Hi there! I'm Oleh! <br>💻 Full-Stack Developer at ElevanceIT. <br>🔥 Passionate about creating intuitive and high-performance applications <br>📫 Always open to connect and collaborate!<br><br><br><br><br><br><br>
 
