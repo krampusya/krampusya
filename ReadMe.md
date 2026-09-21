@@ -1,9 +1,9 @@
 <a href="https://www.linkedin.com/in/oleh-piontkovskyi/"><img src="./banner.svg" width="100%" alt="Oleh Piontkovskyi, full-stack developer in Lviv"></a>
 
-I design, build and run production software end to end: data model, API, UI, deploys and on-call.
-Most of it lives in private repos, so here is what it turned into.
+Full-stack developer. I work on production software end to end: data model, API, UI and deploys.
+The code is private, so here are the products I'm building with the teams behind them.
 
-### Products
+### What I'm working on
 
 **[Planoda](https://planoda.com)** · AI-native work platform  
 Issue tracking, boards and roadmaps where AI agents propose and humans approve. Every action lands in an immutable audit trail with a per-workspace cost ledger.  
