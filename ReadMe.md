@@ -1,41 +1,38 @@
 <a href="https://www.linkedin.com/in/oleh-piontkovskyi/"><img src="./banner.svg" width="100%" alt="Oleh Piontkovskyi, full-stack developer in Lviv"></a>
 
-Hi, I'm Oleh 👋 I design, build and run web products end to end: database, API, UI, deploy.
-Most of my work is private client code, so here is what it turned into.
+I design, build and run production software end to end: data model, API, UI, deploys and on-call.
+Most of it lives in private repos, so here is what it turned into.
 
-### Selected work
+### Products
 
-**Products & systems**
+**[Planoda](https://planoda.com)** · AI-native work platform  
+Issue tracking, boards and roadmaps where AI agents propose and humans approve. Every action lands in an immutable audit trail with a per-workspace cost ledger.  
+`Next.js` `TypeScript` `Postgres` `Stripe` `multi-agent AI`
 
-| Project | What it is | Stack |
-|---|---|---|
-| [GL-Trans](https://gl-trans.vercel.app) | Fleet & trip management for a 40-bus carrier (Chernivtsi ⇄ Romanian airports): public booking site in 3 languages + ops dashboard | Next.js · Postgres |
-| [ject.app](https://crm119.vercel.app) | Task & project manager for small teams: Team → Project → Task | Next.js · TypeScript · Postgres |
-| Tuning119 | BMW body-kit storefront synced from a supplier API | Next.js 16 · Neon |
+**[Goey Pictures](https://goey.do)** · photo business platform for excursions in Punta Cana & Saona  
+Guests find their photos by wristband or QR code. Behind it: an [editing studio](https://studio.goey.do), an offline-first field kiosk for photographers, a GPU image worker, and commission and payroll reporting for the whole crew. Runs daily in production.  
+`Next.js` `TypeScript` `Neon Postgres` `Python` `RxDB` `i18n ES/EN`
 
-**Websites**
+**Aqua Residencial** · resident app for a gated community  
+Installable PWA: visitor passes shared over WhatsApp, gate arrivals and HOA fees, designed for older residents too. Every release passes device, layout and motion checks.  
+`Next.js` `TypeScript` `PWA`
 
-| Project | What it is | Stack |
-|---|---|---|
-| [D4S Detailing](https://github.com/krampusya/d4s) | Cinematic landing for a Kyiv detailing studio | Next.js 16 · GSAP · WebGL |
-| [119 Digital Studio](https://119-digital-studio.vercel.app) | Studio site: web & marketing for automotive businesses | Next.js · Tailwind |
-| Ukrresurs | Catalogue site for a waste-container manufacturer: 27 models, specs, gallery | Next.js 16 · static export |
-| KUM Center | Business website | Next.js · TypeScript |
+**[GL-Trans](https://gl-trans.vercel.app)** · booking and fleet operations for a 40-bus carrier  
+Replaced a shared Google Calendar with a calendar-first booking funnel in 3 languages (Chernivtsi ⇄ Romanian airports) and a dispatcher dashboard.  
+`Next.js` `TypeScript` `Postgres`
 
-**Bots, tools & side projects**
+**[ject.app](https://crm119.vercel.app)** · task and project manager for teams  
+Team → Project → Task, with boards and roles.  
+`Next.js` `TypeScript` `Postgres`
 
-| Project | What it is | Stack |
-|---|---|---|
-| Aleto Auto bot | Telegram bot for an auto-parts shop, orders go to Google Sheets | Python |
-| Signeda scraper | Product catalogue scraper | Python |
-| [Wishlist](https://wishlist-sage-pi.vercel.app) | Anonymous gift wishlist: guests reserve items, no sign-up | Vite · Node |
+### Also built
 
-### Stack I actually use
+[D4S Detailing](https://github.com/krampusya/d4s) (cinematic WebGL/GSAP landing) · [119 Digital Studio](https://119-digital-studio.vercel.app) · Ukrresurs (manufacturer catalogue, 27 products) · Tuning119 (BMW body-kit storefront)
+
+### Stack
 
 <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,postgres,prisma,tailwind,python,vercel,docker,figma&perline=11" alt="TypeScript, Next.js, React, Node.js, PostgreSQL, Prisma, Tailwind, Python, Vercel, Docker, Figma">
 
-### Now
+### Contact
 
-🛠 Building [ject.app](https://crm119.vercel.app) · 📫 Open to freelance projects
-
-[LinkedIn](https://www.linkedin.com/in/oleh-piontkovskyi/) · [119 Digital Studio](https://119-digital-studio.vercel.app)
+Open to product work and long-term collaborations · [LinkedIn](https://www.linkedin.com/in/oleh-piontkovskyi/) · [Telegram](https://t.me/egokram)
