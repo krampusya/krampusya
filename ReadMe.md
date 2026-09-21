@@ -27,7 +27,7 @@ Team → Project → Task, with boards and roles.
 
 ### Also built
 
-[D4S Detailing](https://github.com/krampusya/d4s) (cinematic WebGL/GSAP landing) · [119 Digital Studio](https://119-digital-studio.vercel.app) · Ukrresurs (manufacturer catalogue, 27 products) · Tuning119 (BMW body-kit storefront)
+D4S Detailing (cinematic WebGL/GSAP landing) · [119 Digital Studio](https://119-digital-studio.vercel.app) · Ukrresurs (manufacturer catalogue, 27 products) · Tuning119 (BMW body-kit storefront)
 
 ### Stack
 
