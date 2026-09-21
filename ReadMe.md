@@ -1,38 +1,19 @@
 <a href="https://www.linkedin.com/in/oleh-piontkovskyi/"><img src="./banner.svg" width="100%" alt="Oleh Piontkovskyi, full-stack developer in Lviv"></a>
 
 Full-stack developer. I work on production software end to end: data model, API, UI and deploys.
-The code is private, so here are the products I'm building with the teams behind them.
+The code is private, so here is what I'm working on, live right now.
 
-### What I'm working on
+<p>
+  <a href="https://planoda.com"><img src="./assets/planoda.png" width="49%" alt="Planoda: AI-native work platform"></a>
+  <a href="https://goey.do"><img src="./assets/goey.png" width="49%" alt="Goey Pictures: sales and operations for excursion photographers"></a>
+</p>
+<p>
+  <a href="https://gl-trans-two.vercel.app"><img src="./assets/gltrans.png" width="49%" alt="GL-Trans: airport transfers timed to your flight"></a>
+  <a href="https://tuning119.com"><img src="./assets/tuning119.png" width="49%" alt="Tuning119: auto parts store"></a>
+</p>
 
-**[Planoda](https://planoda.com)** · AI-native work platform  
-Issue tracking, boards and roadmaps where AI agents propose and humans approve. Every action lands in an immutable audit trail with a per-workspace cost ledger.  
-`Next.js` `TypeScript` `Postgres` `Stripe` `multi-agent AI`
+Also built: [119 Digital Studio](https://119-digital-studio.vercel.app) · D4S Detailing · Ukrresurs
 
-**[Goey Pictures](https://goey.do)** · photo business platform for excursions in Punta Cana & Saona  
-Guests find their photos by wristband or QR code. Behind it: an [editing studio](https://studio.goey.do), an offline-first field kiosk for photographers, a GPU image worker, and commission and payroll reporting for the whole crew. Runs daily in production.  
-`Next.js` `TypeScript` `Neon Postgres` `Python` `RxDB` `i18n ES/EN`
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,postgres,tailwind,python,vercel,docker,figma&perline=10" alt="TypeScript, Next.js, React, Node.js, PostgreSQL, Tailwind, Python, Vercel, Docker, Figma">
 
-**Aqua Residencial** · resident app for a gated community  
-Installable PWA: visitor passes shared over WhatsApp, gate arrivals and HOA fees, designed for older residents too. Every release passes device, layout and motion checks.  
-`Next.js` `TypeScript` `PWA`
-
-**[GL-Trans](https://gl-trans.vercel.app)** · booking and fleet operations for a 40-bus carrier  
-Replaced a shared Google Calendar with a calendar-first booking funnel in 3 languages (Chernivtsi ⇄ Romanian airports) and a dispatcher dashboard.  
-`Next.js` `TypeScript` `Postgres`
-
-**[ject.app](https://crm119.vercel.app)** · task and project manager for teams  
-Team → Project → Task, with boards and roles.  
-`Next.js` `TypeScript` `Postgres`
-
-### Also built
-
-D4S Detailing (cinematic WebGL/GSAP landing) · [119 Digital Studio](https://119-digital-studio.vercel.app) · Ukrresurs (manufacturer catalogue, 27 products) · Tuning119 (BMW body-kit storefront)
-
-### Stack
-
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,postgres,prisma,tailwind,python,vercel,docker,figma&perline=11" alt="TypeScript, Next.js, React, Node.js, PostgreSQL, Prisma, Tailwind, Python, Vercel, Docker, Figma">
-
-### Contact
-
-Open to product work and long-term collaborations · [LinkedIn](https://www.linkedin.com/in/oleh-piontkovskyi/) · [Telegram](https://t.me/egokram)
+Open to product work · [LinkedIn](https://www.linkedin.com/in/oleh-piontkovskyi/) · [Telegram](https://t.me/egokram)
