@@ -1,31 +1,43 @@
+<a href="https://www.linkedin.com/in/oleh-piontkovskyi/"><img src="./banner.svg" width="100%" alt="Oleh Piontkovskyi, full-stack developer in Lviv"></a>
 
-<a href="https://www.linkedin.com/in/oleh-piontkovskyi/" target="_blank"><img width="100%" src="./hero2.png"></a>
-[**[Hire A Talent](https://tally.so/r/3lldZB)**]
-[**[Request A Quote](https://tally.so/r/3lldZB)**]
-[**[Find A Job](https://tally.so/r/3j9Qza)**] \_\_\_
+Hi, I'm Oleh 👋 I design, build and run web products end to end: database, API, UI, deploy.
+Most of my work is private client code, so here is what it turned into.
 
-[**[Chat With Me](https://www.linkedin.com/in/oleh-piontkovskyi/)**]
-[**[Work With Me](https://www.linkedin.com/in/oleh-piontkovskyi/)**]
+### Selected work
 
+**Products & systems**
 
-# 💫 About Me:
-🔭 Hi there! I'm Oleh! <br>💻 Full-Stack Developer at ElevanceIT. <br>🔥 Passionate about creating intuitive and high-performance applications <br>📫 Always open to connect and collaborate!<br><br><br><br><br><br><br>
+| Project | What it is | Stack |
+|---|---|---|
+| [GL-Trans](https://gl-trans.vercel.app) | Fleet & trip management for a 40-bus carrier (Chernivtsi ⇄ Romanian airports): public booking site in 3 languages + ops dashboard | Next.js · Postgres |
+| Marshrut | Booking core for an intercity bus carrier: manager CRM, live seat map, double-booking prevented in the database | Next.js 16 · Prisma · grammY |
+| [ject.app](https://crm119.vercel.app) | Task & project manager for small teams: Team → Project → Task | Next.js · TypeScript · Postgres |
+| Tuning119 | BMW body-kit storefront synced from a supplier API | Next.js 16 · Neon |
+| [VW Parts](https://vw-parts.vercel.app) | VW Beetle & Volkswagen parts shop | React · Vite |
 
+**Websites**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krampusya&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=krampusya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krampusya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+| Project | What it is | Stack |
+|---|---|---|
+| [D4S Detailing](https://github.com/krampusya/d4s) | Cinematic landing for a Kyiv detailing studio | Next.js 16 · GSAP · WebGL |
+| [119 Digital Studio](https://119-digital-studio.vercel.app) | Studio site: web & marketing for automotive businesses | Next.js · Tailwind |
+| Ukrresurs | Catalogue site for a waste-container manufacturer: 27 models, specs, gallery | Next.js 16 · static export |
+| KUM Center | Business website | Next.js · TypeScript |
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Bots, tools & side projects**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=krampusya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+| Project | What it is | Stack |
+|---|---|---|
+| Aleto Auto bot | Telegram bot for an auto-parts shop, orders go to Google Sheets | Python |
+| Signeda scraper | Product catalogue scraper | Python |
+| [Wishlist](https://wishlist-sage-pi.vercel.app) | Anonymous gift wishlist: guests reserve items, no sign-up | Vite · Node |
 
----
-[![](https://visitcount.itsvg.in/api?id=krampusya&icon=0&color=11)](https://visitcount.itsvg.in)
+### Stack I actually use
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,postgres,prisma,tailwind,python,vercel,docker,figma&perline=11" alt="TypeScript, Next.js, React, Node.js, PostgreSQL, Prisma, Tailwind, Python, Vercel, Docker, Figma">
+
+### Now
+
+🛠 Building [ject.app](https://crm119.vercel.app) and Marshrut · 📫 Open to freelance projects
+
+[LinkedIn](https://www.linkedin.com/in/oleh-piontkovskyi/) · [119 Digital Studio](https://119-digital-studio.vercel.app)
