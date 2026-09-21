@@ -10,10 +10,8 @@ Most of my work is private client code, so here is what it turned into.
 | Project | What it is | Stack |
 |---|---|---|
 | [GL-Trans](https://gl-trans.vercel.app) | Fleet & trip management for a 40-bus carrier (Chernivtsi ⇄ Romanian airports): public booking site in 3 languages + ops dashboard | Next.js · Postgres |
-| Marshrut | Booking core for an intercity bus carrier: manager CRM, live seat map, double-booking prevented in the database | Next.js 16 · Prisma · grammY |
 | [ject.app](https://crm119.vercel.app) | Task & project manager for small teams: Team → Project → Task | Next.js · TypeScript · Postgres |
 | Tuning119 | BMW body-kit storefront synced from a supplier API | Next.js 16 · Neon |
-| [VW Parts](https://vw-parts.vercel.app) | VW Beetle & Volkswagen parts shop | React · Vite |
 
 **Websites**
 
@@ -38,6 +36,6 @@ Most of my work is private client code, so here is what it turned into.
 
 ### Now
 
-🛠 Building [ject.app](https://crm119.vercel.app) and Marshrut · 📫 Open to freelance projects
+🛠 Building [ject.app](https://crm119.vercel.app) · 📫 Open to freelance projects
 
 [LinkedIn](https://www.linkedin.com/in/oleh-piontkovskyi/) · [119 Digital Studio](https://119-digital-studio.vercel.app)
